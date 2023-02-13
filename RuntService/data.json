@@ -1,0 +1,68 @@
+[
+    {
+        "placa": "BGD19F",
+        "marca": "AKT",
+        "linea": "NKD SPORT",
+        "modelo": "2004",
+        "cilindraje": "125",
+        "propietario": {
+            "nombres": "Ana Patricia",
+            "apellidos": "Rodriguez Hernández",
+            "tipo_documento": "CC",
+            "numero_documento": "1103456789"
+        }
+    },
+    {
+        "placa": "VGH10F",
+        "marca": "YAMAHA",
+        "linea": "MT09",
+        "modelo": "2020",
+        "cilindraje": "200",
+        "propietario": {
+            "nombres": "Camilo",
+            "apellidos": "Perez Muñoz",
+            "tipo_documento": "CC",
+            "numero_documento": "92345678"
+        }
+    },
+    {
+        "placa": "JJC08F",
+        "marca": "YAMAHA",
+        "linea": "XTZ250",
+        "modelo": "2022",
+        "cilindraje": "250",
+        "propietario": {
+            "nombres": "Clara Andrea",
+            "apellidos": "Gomez Bolaños",
+            "tipo_documento": "CC",
+            "numero_documento": "1018555444"
+        }
+    },
+    {
+        "placa": "COZ92E",
+        "marca": "SUZUKI",
+        "linea": "ZKZ150",
+        "modelo": "2019",
+        "cilindraje": "150",
+        "propietario": {
+            "nombres": "Ana Sofia",
+            "apellidos": "Palacios Huertas",
+            "tipo_documento": "CC",
+            "numero_documento": "1104275896"
+        }
+    },
+    
+    {
+        "placa": "QBW59D",
+        "marca": "BOXER",
+        "linea": "CT100",
+        "modelo": "2018",
+        "cilindraje": "100",
+        "propietario": {
+            "nombres": "Maria josé",
+            "apellidos": "Benitez de Hoyos",
+            "tipo_documento": "CC",
+            "numero_documento": "1103210123"
+        }
+    }
+]
